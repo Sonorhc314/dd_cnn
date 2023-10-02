@@ -1,4 +1,4 @@
-﻿# Welcome to tStackEdi!
+﻿# Skill discovery in reinforcement learning based on the diverse density algorithm by Amy McGovern
 
 **Title of your Research project:** Skill discovery in reinforcement learning based on the diverse density algorithm by Amy McGovern
 
@@ -45,5 +45,6 @@ First example:
 Between each map there is a difference in 5 iterations, therefore we can observe how fast a good option, found after the state on the second image, transformed the diverse density map
 
 Second example:
+
 **![](https://lh6.googleusercontent.com/kEzo-5e3Jl_rO-N-0cxR6PUm0lLRyHK0RM1nPxLYY0xDyHu7x0HEIGTg_53D59-HdSvQt3c-U12DYnuqAGAcGEujT9_vGd2y__Fr7tmy5pzKN_p1yX3FBOnfJfOMbVWb2QVKjnx63VV6D2M-59IbSMQ)**
 **![](https://lh3.googleusercontent.com/as1M-L6w2KQxnX0ltJMR3oZnULOz7zFmNE3cgyECKiM0JMi5WVQqhq-o5qJ1ElOyKLMtmRuGOVYj60DV8HYPkfT1--zRWZmpUIS1ah0-lTlgwjWIahJk5gmWGLX25owy1bUd2ur4BdQBoCNonA7Ujl0)**
